@@ -17,3 +17,8 @@ Apply di cluster
 ```bash
 kubectl apply -f rbac.yaml
 ```
+Teleport solusi alternatif untuk kubectl ke cluster private menggunakan layer 7 loadbalancer
+
+<img width="1269" height="343" alt="image" src="https://github.com/user-attachments/assets/b2ee2373-2b63-4b45-907e-baa49c2427fc" />
+
+
